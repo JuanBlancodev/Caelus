@@ -1,0 +1,1 @@
+export default (_, res) => res.sendStatus(200)
